@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sophia Kyemba, a computer science student at The University of Alabama.
 - 👀 I’m interested in projects in Java, C, C++, and Python.
-- 🌱 I’m currently learning about data structures and algorithms, as well as about microcomputers.
+- 🌱 I’m currently taking programming languages and computer algorithms.
 <!--- - 💞️ I’m looking to collaborate on ... --->
 - 📫 You can reach me by email: snkyemba@crimson.ua.edu
 <!---
